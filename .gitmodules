@@ -1,0 +1,3 @@
+[submodule "Simple_Enrollment_System"]
+	path = Simple_Enrollment_System
+	url = https://github.com/NadzTiwing/Simple_Enrollment_System.git
