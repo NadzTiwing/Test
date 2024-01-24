@@ -1,2 +1,2 @@
 # Test
-testing purposes
+Test and practice submodules
